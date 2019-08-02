@@ -1,48 +1,48 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Robert Melrose",
+    "label": "Software Engineer",
+    "picture": "https://melroser.github.io/template/images/melroser.png",
+    "email": "themelroser@gmail.com",
+    "phone": "303-555-7583",
+    "website": "melroser.com",
+    "summary": "Enthusiastic developer with a strong technical background, coupled with exceptional communication skills. A quick learner who can rapidly become a contributing member ! of any team, even when working with an unfamiliar technology or toolset.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "33131",
+      "city": "Miami",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Florida"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "melroser",
+        "url": "http://github.com/melroser"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "themelroser",
+        "url": "http://linkedin.com/in/themelroser"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "themelroser",
+        "url": "http://twitter.com/themelroser"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "themelroser",
+        "url": "http://instagram.com/themelroser"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Film Photography",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "photography",
+        "film"
       ]
     },
     {
