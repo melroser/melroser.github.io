@@ -2,7 +2,7 @@
   "basics": {
     "name": "Robert Melrose",
     "label": "Software Engineer",
-    "picture": "https://melroser.github.io/template/images/melroser.png",
+    "picture": "https://melroser.github.io/template/images/melroser.jpg",
     "email": "themelroser@gmail.com",
     "phone": "303-555-7583",
     "website": "melroser.com",
@@ -91,12 +91,12 @@
       "institution": "Colorado State University, Fort Collins, CO",
       "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "Fall 2008",
-      "endDate": "Fall 2018",
+      "startDate": "2008-09-01",
+      "endDate": "2018-12-31",
       "gpa": "",
       "courses": [
         "Computer Security",
-        "Computer Networking",
+        "Computer Networks and the Internet",
         "Parallel Programming"
       ]
     }
@@ -108,10 +108,10 @@
       "website": "www.farelogix.com",
       "startDate": "2015-03-01",
       "endDate": "Present",
-      "summary": "Full Stack Web Development",
+      "summary": "Full-Stack Web Development",
       "highlights": [
-        "Maintain, update, and design a sweet of web applications and API's",
-        "C++ Backend Web Development"
+        "Started out doing C++ back-end web development",
+        "Now I design, implement, and maintain a suit of .NET web applications and API's"
       ]
     },
     {
