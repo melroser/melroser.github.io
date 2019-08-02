@@ -6,7 +6,7 @@
     "email": "themelroser@gmail.com",
     "phone": "303-555-7583",
     "website": "melroser.com",
-    "summary": "Enthusiastic developer with a strong technical background, coupled with exceptional communication skills. A quick learner who can rapidly become a contributing member ! of any team, even when working with an unfamiliar technology or toolset.",
+    "summary": "Enthusiastic developer with a strong technical background, coupled with exceptional communication skills. A quick learner who can rapidly become a contributing memberof any team, even when working with an unfamiliar technology or toolset.",
     "location": {
       "address": "",
       "postalCode": "33131",
@@ -39,83 +39,91 @@
   },
   "interests": [
     {
-      "name": "Film Photography",
+      "name": "Photography",
       "keywords": [
         "photography",
         "film"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Full Stack Web Development",
       "keywords": [
+        ".NET",
+        "Angular"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Computer Security",
       "keywords": [
+        "Penetration Testing",
+        "NIDS"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
         "C++",
-        "Java",
+        "C#",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java",
+        "Flutter"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Frameworks & Tools",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MVC 5",
+        "ASP .NET",
+        ".NET Core",
+        "Entity Framework",
+        "AngularJS",
+        "Xamarin Forms"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Colorado State University, Fort Collins, CO",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "Fall 2008",
+      "endDate": "Fall 2018",
       "gpa": "",
       "courses": [
+        "Computer Security",
+        "Computer Networking",
+        "Parallel Programming"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Farelogix",
+      "position": "Developer",
+      "website": "www.farelogix.com",
+      "startDate": "2015-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Full Stack Web Development",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and design a sweet of web applications and API's",
+        "C++ Backend Web Development"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Seagate Technology",
+      "position": "Engineer",
+      "website": "www.seagate.com",
+      "startDate": "2012-06-01",
+      "endDate": "2014-11-01",
+      "summary": "Worked for the reliability department programming tests for hard disk drives in Python",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Began as an intern and eventually was hired on full-time",
+        "Set up Continuos Integration server (Atlassian Bamboo)"
       ]
     }
   ],
